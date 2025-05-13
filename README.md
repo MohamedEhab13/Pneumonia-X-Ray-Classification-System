@@ -7,7 +7,7 @@ A deep learning model that detects pneumonia from chest X-ray images using PyTor
 <!-- Insert sample images here -->
 <p align="center">
   <img src="test/NORMAL/IM-0001-0001.jpeg" width="400" alt="Normal X-ray">
-  <img src="images/pneumonia_sample.jpg" width="400" alt="Pneumonia X-ray">
+  <img src="test/PNEUMONIA/person100_bacteria_475.jpeg" width="400" alt="Pneumonia X-ray">
 </p>
 <p align="center">
   <em>Left: Normal chest X-ray. Right: Chest X-ray showing pneumonia.</em>
